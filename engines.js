@@ -6,10 +6,12 @@ window.engines = `
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub Code Search,cs,https://cs.github.com
 GitHub,gh,https://github.com/%s
+KhanAcademy.org,ko,https://khanacademy.org
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan Jira,kj,https://khanacademy.atlassian.net/secure/QuickSearch.jspa?searchString=%s
+Khan localhost,kl,localhost:8090
 Khan Repo,kr,https://github.com/khan/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
