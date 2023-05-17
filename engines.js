@@ -3,6 +3,7 @@
  * LABEL,SHORTCUT,URL (with %s for search term)
  */
 window.engines = `
+Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NASB
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub Code Search,cs,https://cs.github.com
 GitHub,gh,https://github.com/%s
@@ -16,9 +17,9 @@ Khan Repo,kr,https://github.com/khan/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My website,me,https://seanmcp.com
+Phind,ph,https://www.phind.com/search?q=%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
 Wonder Blocks,wb,https://khan.github.io/wonder-blocks/
-Phind,ph,https://www.phind.com/search?q=%s
 `;
