@@ -25,4 +25,5 @@ Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
 Wonder Blocks,wb,https://khan.github.io/wonder-blocks/
+Wonder Stuff,ws,https://khan.github.io/wonder-stuff/
 `;
