@@ -21,6 +21,7 @@ Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archi
 Khan Repo,kr,https://github.com/khan/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
+My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
 My website,me,https://seanmcp.com
 Phind,ph,https://www.phind.com/search?q=%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
