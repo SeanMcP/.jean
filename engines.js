@@ -19,6 +19,7 @@ Khan Jira,kj,https://khanacademy.atlassian.net/secure/QuickSearch.jspa?searchStr
 Khan localhost,kl,http://localhost:8090
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
+Khan Storybook,ksb,http://localhost:8228
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
