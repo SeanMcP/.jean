@@ -25,6 +25,7 @@ My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
 My website,me,https://seanmcp.com
 Phind,ph,https://www.phind.com/search?q=%s
+Playgrounds,pg,https://playgrounds.seanmcp.com/#%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 URL,u,https://%s
