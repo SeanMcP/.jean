@@ -5,8 +5,9 @@
 window.engines = `
 Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NASB
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
-GitHub Code Search,cs,https://cs.github.com
 GitHub,gh,https://github.com/%s
+GitHub Code Search,cs,https://cs.github.com
+GitHub Search,ghs,https://github.com/search?q=%s
 Google,go,https://www.google.com/search?q=%s
 Localhost,lh,http://localhost:%s
 KhanAcademy.org,ko,https://khanacademy.org
