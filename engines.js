@@ -25,6 +25,7 @@ MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
 My website,me,https://seanmcp.com
+Perplexity.ai,pp,https://www.perplexity.ai/
 Phind,ph,https://www.phind.com/search?q=%s
 Playgrounds,pg,https://playgrounds.seanmcp.com/#%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
