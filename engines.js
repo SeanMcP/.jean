@@ -10,6 +10,7 @@ GitHub Code Search,cs,https://cs.github.com
 GitHub Search,ghs,https://github.com/search?q=%s
 Google,go,https://www.google.com/search?q=%s
 Localhost,lh,http://localhost:%s
+Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
