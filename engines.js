@@ -3,7 +3,7 @@
  * LABEL,SHORTCUT,URL (with %s for search term)
  */
 window.engines = `
-Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NASB
+Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NET
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub,gh,https://github.com/%s
 GitHub Code Search,cs,https://cs.github.com
