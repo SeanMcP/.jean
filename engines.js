@@ -6,7 +6,6 @@ window.engines = `
 Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NET
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub,gh,https://github.com/%s
-GitHub Code Search,cs,https://cs.github.com
 GitHub Search,ghs,https://github.com/search?q=%s
 Google,go,https://www.google.com/search?q=%s
 Localhost,lh,http://localhost:%s
@@ -14,7 +13,6 @@ Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
-Khan webapp diff,kd,https://github.com/Khan/webapp/compare/master...%s
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
 Khan Hotel,kh,http://localhost:2000
@@ -23,6 +21,7 @@ Khan localhost,kl,http://localhost:8090
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
+Khan webapp diff,kd,https://github.com/Khan/webapp/compare/master...%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
