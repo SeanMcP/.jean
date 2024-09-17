@@ -14,6 +14,7 @@ Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
+Khan webapp diff,kd,https://github.com/Khan/webapp/compare/master...%s
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
 Khan Hotel,kh,http://localhost:2000
