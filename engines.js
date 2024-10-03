@@ -6,6 +6,7 @@ window.engines = `
 Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NET
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub,gh,https://github.com/%s
+GitHub Notifications,ghn,https://github.com/notifications
 GitHub Search,ghs,https://github.com/search?q=%s
 Google,go,https://www.google.com/search?q=%s
 Localhost,lh,http://localhost:%s
