@@ -23,7 +23,7 @@ Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archi
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
 Khan webapp diff,kd,https://github.com/Khan/webapp/compare/master...%s
-Khan Writing Coach Report,kwcr,khanacademy.org/teacher/report/writing-coach/%s
+Khan Writing Coach Report,kwcr,https://khanacademy.org/teacher/report/writing-coach/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
