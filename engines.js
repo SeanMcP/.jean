@@ -13,6 +13,7 @@ Localhost,lh,http://localhost:%s
 Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
+KhanAcademy.dev,kd,https://khanacademy.dev
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
@@ -22,7 +23,7 @@ Khan localhost,kl,http://localhost:8090
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
-Khan webapp diff,kd,https://github.com/Khan/webapp/compare/master...%s
+Khan webapp diff,kdf,https://github.com/Khan/webapp/compare/master...%s
 Khan Writing Coach Report,kwcr,https://khanacademy.org/teacher/report/writing-coach/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
