@@ -39,4 +39,5 @@ URL,u,https://%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
 Wonder Blocks,wb,https://khan.github.io/wonder-blocks/
 Wonder Stuff,ws,https://khan.github.io/wonder-stuff/
+Writing Coach,wc,https://khanacademy.org/writing-coach/%s
 `;
