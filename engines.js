@@ -23,7 +23,8 @@ Khan localhost,kl,http://localhost:8090
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
-Khan webapp diff,kdf,https://github.com/Khan/webapp/compare/master...%s
+Khan frontend diff,kfd,https://github.com/Khan/frontend/compare/main...%s
+Khan webapp diff,kwd,https://github.com/Khan/webapp/compare/master...%s
 Khan Writing Coach Report,kwcr,https://khanacademy.org/teacher/report/writing-coach/%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
@@ -40,4 +41,5 @@ Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
 Wonder Blocks,wb,https://khan.github.io/wonder-blocks/
 Wonder Stuff,ws,https://khan.github.io/wonder-stuff/
 Writing Coach,wc,https://khanacademy.org/writing-coach/%s
+Writing Coach Dev,wcd,https://khanacademy.dev/writing-coach/%s
 `;
