@@ -8,6 +8,7 @@ Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub,gh,https://github.com/%s
 GitHub Notifications,ghn,https://github.com/notifications
 GitHub Search,ghs,https://github.com/search?q=%s
+GitHub Pages,ghp,https://seanmcp.github.io/%s
 Google,go,https://www.google.com/search?q=%s
 Localhost,lh,http://localhost:%s
 Kagi,k,https://kagi.com/search?q=%s
