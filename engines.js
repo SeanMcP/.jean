@@ -26,6 +26,7 @@ Khan Jira,kj,https://khanacademy.atlassian.net/secure/QuickSearch.jspa?searchStr
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
+Khan Support Log,ksl,https://khanacademy.atlassian.net/wiki/spaces/ll/pages/4262592520/LangLit+Team+Support+Log+SY25-26
 Khan frontend diff,kfd,https://github.com/Khan/frontend/compare/main...%s
 Khan webapp diff,kwd,https://github.com/Khan/webapp/compare/master...%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
