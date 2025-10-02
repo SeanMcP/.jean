@@ -14,8 +14,10 @@ Localhost,lh,http://localhost:%s
 Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 KhanAcademy.dev,kd,https://khanacademy.dev
+Khan BigQuery,kbq,https://console.cloud.google.com/bigquery?project=khan-academy
 Khan Component Runner,kcr,https://www.khanacademy.org/devadmin/khanmigo/component-runner
 Khan Confluence,kc,https://khanacademy.atlassian.net/wiki/dosearchsite.action?queryString=%s
+Khan Datastore,kds,https://console.cloud.google.com/datastore/databases/-default-/entities/query/kind?project=khan-academy
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
