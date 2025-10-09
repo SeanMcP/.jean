@@ -23,6 +23,7 @@ Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6p
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
 Khan Hotel,kh,http://localhost:2000
 Khan Jira,kj,https://khanacademy.atlassian.net/secure/QuickSearch.jspa?searchString=%s
+Khan Kaid,kk,https://khanacademy.org/devadmin/users/%s
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
 Khan Repo,kr,https://github.com/khan/%s
 Khan Storybook,ksb,http://localhost:8228
