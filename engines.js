@@ -10,7 +10,6 @@ GitHub Notifications,ghn,https://github.com/notifications
 GitHub Search,ghs,https://github.com/search?q=%s
 GitHub Pages,ghp,https://seanmcp.github.io/%s
 Google,go,https://www.google.com/search?q=%s
-Localhost,lh,http://localhost:%s
 Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 KhanAcademy.dev,kd,https://khanacademy.dev
@@ -21,7 +20,6 @@ Khan Datastore,kds,https://console.cloud.google.com/datastore/databases/-default
 Khan Dev Admin,kda,https://khanacademy.org/devadmin/
 Khan Google Docs,kgd,https://drive.google.com/drive/search?q=%s%20parent:1kFJl6pRLb00a_T_UbotX0InwWORnrv-j
 Khan GraphQL,kgql,https://www.khanacademy.org/devadmin/graphql
-Khan Hotel,kh,http://localhost:2000
 Khan Jira,kj,https://khanacademy.atlassian.net/secure/QuickSearch.jspa?searchString=%s
 Khan Kaid,kk,https://khanacademy.org/devadmin/users/%s
 Khan PRs,kpr,https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3ASeanMcP+archived%3Afalse+user%3AKhan
@@ -32,11 +30,11 @@ Khan Team-internal event doc,kti,https://docs.google.com/spreadsheets/d/14kG5--J
 Khan frontend diff,kfd,https://github.com/Khan/frontend/compare/main...%s
 Khan webapp diff,kwd,https://github.com/Khan/webapp/compare/master...%s
 MDN,mdn,https://developer.mozilla.org/en-US/search?q=%s
+Merriam-Webster Dictionary,d,https://www.merriam-webster.com/dictionary/%s
+Merriam-Webster Thesaurus,t,https://www.merriam-webster.com/thesaurus/%s
 My GitHub Repo,mr,https://github.com/seanmcp/%s
 My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
 My website,me,https://seanmcp.com
-Perplexity.ai,pp,https://www.perplexity.ai/
-Phind,ph,https://www.phind.com/search?q=%s
 Playgrounds,pg,https://playgrounds.seanmcp.com/#%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
