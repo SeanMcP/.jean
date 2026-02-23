@@ -37,6 +37,7 @@ My GitHub Stars,ms,https://github.com/SeanMcP?tab=stars&q=%s
 My website,me,https://seanmcp.com
 Playgrounds,pg,https://playgrounds.seanmcp.com/#%s
 Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
+Reader,r,https://seanmcp.github.io/reader/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 seanmcp.com,sm,https://www.seanmcp.com/search/?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
