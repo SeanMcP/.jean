@@ -45,5 +45,5 @@ Wonder Blocks,wb,https://khan.github.io/wonder-blocks/
 Wonder Stuff,ws,https://khan.github.io/wonder-stuff/
 Writing Coach,wc,https://khanacademy.org/writing-coach/%s
 Writing Coach Dev,wcd,https://khanacademy.dev/writing-coach/%s
-Writing Coach Inspect,wci,https://khanacademy.dev/writing-coach/inspect/%s
+Writing Coach Inspect,wci,https://khanacademy.org/writing-coach/inspect/%s
 `;
