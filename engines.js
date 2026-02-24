@@ -4,6 +4,7 @@
  */
 window.engines = `
 Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NET
+Diff Text,diff,https://difftext.com/
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
 GitHub,gh,https://github.com/%s
 GitHub Notifications,ghn,https://github.com/notifications
