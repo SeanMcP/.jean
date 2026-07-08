@@ -3,6 +3,7 @@
  * LABEL,SHORTCUT,URL (with %s for search term)
  */
 window.engines = `
+Allegheny County Libraries,acl,https://acl.bibliocommons.com/v2/search?searchType=smart&query=%s
 Bible Gateway,bg,https://www.biblegateway.com/quicksearch/?quicksearch=%s&version=NET
 Diff Text,diff,https://difftext.com/
 Duck Duck Go,ddg,https://duckduckgo.com/?q=%s
