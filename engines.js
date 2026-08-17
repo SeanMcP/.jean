@@ -12,6 +12,7 @@ GitHub Notifications,ghn,https://github.com/notifications
 GitHub Search,ghs,https://github.com/search?q=%s
 GitHub Pages,ghp,https://seanmcp.github.io/%s
 Google,go,https://www.google.com/search?q=%s
+Hacker News,hn,https://news.ycombinator.com/front
 Kagi,k,https://kagi.com/search?q=%s
 KhanAcademy.org,ko,https://khanacademy.org
 KhanAcademy.dev,kd,https://khanacademy.dev
