@@ -25,4 +25,5 @@ Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 seanmcp.com,sm,https://www.seanmcp.com/search/?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
+Work Repo,wr,https://github.com/grayswansecurity/%s
 `;
