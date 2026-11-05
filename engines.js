@@ -26,4 +26,5 @@ Stack Overflow,so,https://stackoverflow.com/search?q=%s
 seanmcp.com,sm,https://www.seanmcp.com/search/?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
 Work Repo,wr,https://github.com/grayswansecurity/%s
+Work GitHub Search,wgs,https://github.com/search?q=org%3Agrayswansecurity+%s&type=code
 `;
