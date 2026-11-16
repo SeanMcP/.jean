@@ -25,6 +25,7 @@ Puzzle Maker,pzl,https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
 Stack Overflow,so,https://stackoverflow.com/search?q=%s
 seanmcp.com,sm,https://www.seanmcp.com/search/?q=%s
 Wikipedia,wk,https://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
+Work PRs,wpr,https://github.com/pulls/authored?q=is%3Apr+author%3A%40me+state%3Aopen+archived%3Afalse+sort%3Aupdated-desc+org%3Agrayswansecurity
 Work Repo,wr,https://github.com/grayswansecurity/%s
 Work GitHub Search,wgs,https://github.com/search?q=org%3Agrayswansecurity+%s&type=code
 `;
